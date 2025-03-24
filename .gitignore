@@ -108,3 +108,4 @@ uploads/
 release/
 !/client/src/@types/i18next.d.ts
 # package - Example.json
+librechat_kb
